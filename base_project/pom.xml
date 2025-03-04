@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ldt.demo</groupId>
-    <artifactId>base_project</artifactId>
+    <artifactId>String-StringBuilder-StringBuffer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>base_project</name>
-    <description>base_project</description>
+    <name>String-StringBuilder-StringBuffer</name>
+    <description>String-StringBuilder-StringBuffer</description>
     <url/>
     <licenses>
         <license/>
